@@ -1,0 +1,83 @@
+{{>header}}
+<h1> Horários Semanal</h1>
+<table>
+    <tr>
+      <td>Horários</td>
+      <td>SEGUNDA</td>
+      <td>TERÇA</td>
+      <td>QUARTA</td>
+      <td>QUINTA</td>
+      <td>SEXTA</td>
+
+    </tr>
+    <tr>
+      <td>07h40</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+    </tr>
+    <tr>
+      <td>08h30</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de Dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+    </tr>
+    <tr>
+      <td>09h40</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de Dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+    </tr>
+    <tr>
+      <td>10h30</td>
+      <td>Gestão Agil de Projetos</td>
+      <td>Banco de Dados Não Relacional</td>
+      <td>Desenvolvimento Web III</td>
+      <td>Álgebra linear</td>
+      <td>Técnica de Programação II</td>
+
+    </tr>
+    <tr>
+        <td>11h20</td>
+        <td>Estrutura de Dados</td>
+        <td>Inglês I</td>
+        <td>Interação Humano Computador</td>
+        <td></td>
+        <td></td>
+
+      </tr>
+      <tr>
+        <td>12h10</td>
+        <td>Estrutura de Dados</td>
+        <td>Inglês I</td>
+        <td>Interação Humano Computador</td>
+        <td></td>
+        <td></td>
+
+      </tr>
+  </table>
+
+
+<style>
+td{ 
+    border: 2px black solid;
+    font-size: 20pt;
+    color:white;
+    }
+body{
+    background:#003B85; 
+    font-family: 'Arial', sans-serif;font-size:15px;
+    color:#DFE9F5;
+}
+table{
+     font-family: 'Arial', sans-serif;font-size:15px;
+     border:black 2px solid';
+     color:white;
+}
+</style>

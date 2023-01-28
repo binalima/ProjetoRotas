@@ -1,0 +1,27 @@
+{{>header}}
+<h1><b>Apresentação do Projeto</b></h1>
+<br>
+<body>
+<p>O projeto será desevolvido em Node.JS com os framework Mustache e Express, sendo ele dividido em três partes: </p>
+<ol>
+<li>Rota Principal: Apresentação do Projeto </li>
+<li>Rota 1: Grade de horário do 1° Semestre de 2023</li>
+<li>Rota 2:Estrutura do Histórico Escolar dos Semestres Anteriores</li>
+</ol>
+</body>
+<style>
+body{
+    background:#003B85; 
+    font-family: 'Arial', sans-serif;font-size:20px;
+}
+b{
+    color:#DFE9F5;
+}
+h1{
+    color:#DFE9F5;
+}
+p{
+    color:white;
+}
+</style>
+
